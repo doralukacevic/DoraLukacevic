@@ -16,14 +16,17 @@ p {
 	margin:20px;
 	width: 50%;
 }
-h1, h2 {
+h1 {font-family: DoraLukacevic;
+	color:cadetblue;
+}
+h2 {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color:cadetblue;
 }
 
 span {color: rgba(248,6,146,1.00);}
 .pozadina{
-	background-image: url("slike_i_video_za_web/pozadina.jpg");
+	background-image: url("slike_i_video_projektni/pozadina_html.jpg");
 	background-color: darkcyan;
 }
 
@@ -35,7 +38,7 @@ a:link {
 	border: 1px solid #000000;
 }
 a:hover{
-	background-color: darkgray;
+	background-color: lightpink;
 }
 img{
 	height: 200px;
