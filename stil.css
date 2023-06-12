@@ -30,12 +30,14 @@ span {color: rgba(248,6,146,1.00);}
 	background-color: darkcyan;
 }
 
-a:link {
+a:link { 
 	color:black;
-	background-color: white;
+	background-color: floralwhite;
 	padding: 5px;
 	line-height: 40px;
-	border: 1px solid #000000;
+	border: 2px solid #000000;
+}
+nav ul li {display: inline;
 }
 a:hover{
 	background-color: lightpink;
