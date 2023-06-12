@@ -16,7 +16,11 @@ p {
 	margin:20px;
 	width: 50%;
 }
-h1 {font-family: DoraLukacevic;
+@font-face{ 
+	font-family: DoraLukacevic;
+  	src: url("DoraLukacevic_novo.ttf");
+}
+h1 {font-family:DoraLukacevic;
 	color:cadetblue;
 }
 h2 {
